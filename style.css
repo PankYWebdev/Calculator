@@ -1,0 +1,29 @@
+*{
+    box-sizing:border-box;
+}
+.container{
+    text-align: center;
+    margin-top:23px;
+}
+.calcultor{
+    display: inline-block;
+    border:2px solid black;
+    padding:10px;
+    background-color: rgb(38, 251, 227);
+}
+
+table{
+    margin:auto;
+}
+
+input{
+    border:5px solid #244624;
+    font-size: 30px;
+}
+
+button{
+    font-size:40px;
+    width:91px;
+    height:57px;
+    background-color: rgb(169, 7, 7);
+}
